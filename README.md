@@ -10,3 +10,5 @@
 6. When all promps have been answered, a password is generated on the screen in the input field that matches the critera that they have selected.
 
 Link: https://txngyn.github.io/Module-3/
+
+![Screenshot](/assets/website-image.png)
