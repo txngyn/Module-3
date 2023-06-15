@@ -1,6 +1,6 @@
 # Password Generator Starter Code
 
-##Criteria 
+## Criteria 
 - When they click 'generate password' they are presented with:
 1. select password length
 2. select if password has lower and upper case, special characters, numbers or a combination of any.
@@ -9,4 +9,4 @@
 5. All character selections they make, will be validated right after with an alet that they have selected that.
 6. When all promps have been answered, a password is generated on the screen in the input field that matches the critera that they have selected.
 
-Link: https://
+Link: https://txngyn.github.io/Module-3/
